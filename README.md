@@ -1,11 +1,15 @@
-# My wins 1
-# 🌡️ Currency Converter
-
+# My wins 2
+# 🤑 Currency Converter
 ## Live preview
 https://thivicurrencyconvert.netlify.app/
-
+</br>
+</br>
+<img width="727" height="414" alt="image" src="https://github.com/user-attachments/assets/2eb20a7b-75ec-4060-beeb-08ad3e56e833" />
+</br>
+</br>
 My first React project - converts between USD, INR, LKR. </br>
-Used real time AP https://api.exchangerate-api.com/v4/latest/USD
+
+Used real time API  https://api.exchangerate-api.com/v4/latest/USD
 
 ## Features
 - Real-time conversion
